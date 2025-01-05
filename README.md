@@ -1,9 +1,9 @@
-- 👋 H# 💫 About Me:
+# 💫 About Me:
 Hi👋🏽<br>My name is Yanis, currently i am learning front-end development.<br>Dreaming to become a software engineer.<br>Like improving myself.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/82a8202b3) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanis-blaga-82a8202b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,12 +16,7 @@ Hi👋🏽<br>My name is Yanis, currently i am learning front-end development.<b
 [![](https://visitcount.itsvg.in/api?id=Blaga-Yanis&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->i, I’m @Blaga-Yanis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Blaga-Yanis/Blaga-Yanis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
